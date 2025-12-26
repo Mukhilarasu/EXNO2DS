@@ -139,4 +139,4 @@ sns.pairplot(dt)
 <img width="1834" height="412" alt="530335233-0fe47016-608e-439b-912e-1e98ac3bd748" src="https://github.com/user-attachments/assets/49a0df6c-8128-4762-998b-29066c946b8d" />
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+Thus, Exploratory Data Analysis for the given dataset is done successfully.
